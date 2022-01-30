@@ -28,4 +28,4 @@ Export the file as Single web page with clickable prototype HTML template.
 ### GALLERY PAGE:
 ![GALLERY](./Pages/gallery.png)
 ## Result:
-Thus a wire frame is designed for a given website.
+Thus a Wire Frame is designed for a given website.
