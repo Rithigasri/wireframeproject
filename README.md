@@ -22,10 +22,10 @@ Export the file as Single web page with clickable prototype HTML template.
 
 ## OUTPUT:
 ### HOME PAGE:
-![HOMEPAGE](./Pages/Home.png)
+![HOMEPAGE](./Home.png)
 ### ABOUT US PAGE:
-![ABOUTUS](./Pages/about.png)
+![ABOUTUS](./about.png)
 ### GALLERY PAGE:
-![GALLERY](./Pages/gallery.png)
+![GALLERY](./gallery.png)
 ## Result:
 Thus a Wire Frame is designed for a given website.
